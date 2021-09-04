@@ -1,0 +1,58 @@
+
+.fontvari{ font-variant: small-caps; }
+.center{ text-align: center; }
+.left{ text-align:left; }
+.right{text-align: right;}
+.full{height: 100%}
+.white{ color:white; }
+.black{color:white;}
+.mini-btn{padding: 1px 12px;margin:1px;}
+.flex{display: flex; display: -webkit-flex;}
+.mini-details{font-size: 9pt; font-size: bold}
+.panel{width: 100%;border-radius: 3px;border:1px solid #D2D3D6;}
+.panel-head{background: #E5F1FB ;border-bottom: 1px solid #D2D3D6;padding: 11px;border-radius: 3px 3px 0 0;font-size: 14pt;font-weight: bold}
+.panel-body{background: white;padding: 14px 11px;border-radius:0 0 3px 3px}
+.hidden{display: none;}
+.thumb{ border: 1px solid #B2B2B2; padding: 3px;background: white}.red{color:red;}
+.blue{color:blue;}
+.green{color:green;}
+.inline li{display: inline}
+.flex{display: flex}
+.zero{padding: 0;margin:0;}
+.nostyle{list-style-type: none}
+body{margin: 0;background:#ECF3F6 ;}
+.fright{ float: right; }
+.fleft{ float: left; }
+.clear{clear: both}
+.sans{ font-family: sans-serif; }
+.strong{font-weight: bold}
+.half{width: 50%}
+.fontTreb{font-family: trebuchet ms}
+.marginauto{margin:auto;}
+.bg{background: blue}
+.m1{margin: 1px}
+.mauto{margin: auto;}
+.bg-green{background: green;color: white}
+/*---- index.php----*/
+
+
+.topHead{font-size: 22pt;background:#145632;padding: 24px;color:gold;text-shadow: 2px 2px black}
+		
+.cover{padding: 11px;}
+.cvBody{border:1px solid black; width: 57%;min-height: 444px;}
+.cv-head{background:#212121;width: 40%;padding: 4px}
+.photo{background:#283136;height: 222px}
+.cv-content{width: 60%}
+.center{text-align: center;}
+.flex{display: inline-flex;}
+
+.marginLeft{margin-left: 18%;}
+.item ul li{color: #72A4A4;background:#2C3B41;padding: 4px;padding-left: 22px;}
+.item ul li:hover{color:white;}
+.rightAccount:hover{background:#367FA9;cursor: pointer;}
+.account{width: 277px;background:#F9F9F9;;position: absolute;right:2px;margin-top: 2px;}
+.content2{padding:15px 22px;}
+.box2{padding: 7px;background:white;margin: 14px;width: 222px;border-top: 3px solid blue;z-index: -1;box-shadow: 1px 1px 3px silver;cursor: pointer;}
+.box2:hover{box-shadow: 1px 1px 11px black}
+
+.tableBox{background:white;box-shadow: 1px 1px 11px silver;margin:5px;padding: 11px;}
