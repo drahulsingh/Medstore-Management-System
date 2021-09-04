@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase 
+RewriteRule ^inventeries/([0-9]+) inventeries.php?catId=$1 [NC,L]
