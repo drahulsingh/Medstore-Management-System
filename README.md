@@ -16,7 +16,7 @@ Welcome to the Medstore Management System! This repository contains the source c
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
+   <!--- [Screenshots](#screenshots)-->
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -47,7 +47,7 @@ To install and run this project locally, follow these steps:
     - `http://localhost/Medstore-Management-System/login.php`
 2. Log in with your credentials.
 3. Start managing your medical store's inventory, billing, and reports.
-
+<!--
 ## Screenshots
 
 ![Dashboard](assets/dashboard.png)
@@ -58,7 +58,7 @@ To install and run this project locally, follow these steps:
 
 ![Billing](assets/billing.png)
 *Billing System*
-
+-->
 ## Contributing
 
 Contributions are welcome! Please follow these steps:
